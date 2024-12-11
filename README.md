@@ -24,6 +24,4 @@
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=sumon-chandro-shil&show_icons=true&locale=en" alt="sumon-chandro-shil"/></p><br>
 
-<p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sumon-chandro-shil&theme=" alt="sumon-chandro-shil"/></p><br>
-
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumon-chandro-shil&show_icons=true&locale=en&layout=compact" alt="sumon-chandro-shil"/></p>
