@@ -1,5 +1,5 @@
 <h1 align="center" style="color: red;">Hi 👋, I'm Sumon Chandro Shil</h1>
-<h3 align="center">Passionate Python Developer from Bangladesh.</h3>
+<h3 align="center">Passionate Machine Learning Engineer from Bangladesh.</h3>
 <p align="center"><a href="#"><img title="Sumon Chandro Shil" src="sumon_chandro_shil_cover.jpg"></a>
 </p>
 
