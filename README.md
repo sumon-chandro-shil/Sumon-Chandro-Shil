@@ -31,7 +31,7 @@
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=sumon-chandro-shil&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=sumon-chandro-shil&icon=0&color=C9491E)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
