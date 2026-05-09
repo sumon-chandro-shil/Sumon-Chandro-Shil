@@ -3,8 +3,6 @@
 <p align="center"><a href="#"><img title="Sumon Chandro Shil" src="sumon_chandro_shil_cover.jpg"></a>
 </p>
 
-<p align="center"border-radius=0px> <img src="https://komarev.com/ghpvc/?username=sumon-chandro-shil&label=Profile%20views&color=0e75b6&style=flat" alt="sumon-chandro-shil" /> </p>
-
 - 🌱 I’m currently learning **Data Science and Machine Learning(ML)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumon-chandro-shil](https://github.com/sumon-chandro-shil)
